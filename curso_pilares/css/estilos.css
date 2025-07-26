@@ -1,0 +1,27 @@
+header {
+    background-color:#CCD5AE;
+}
+     
+
+main {
+    background-color:#FEFAE0;
+    }
+
+footer{
+    background-color: #D4A373;
+}
+
+.logo{
+    width: 70;
+    margin:auto;
+    margin-left: 1200;
+    margin-right: auto;
+
+}
+
+#platillo{
+    width: 750;
+}
+.redes {
+    width: 25; 
+}

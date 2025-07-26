@@ -1,0 +1,34 @@
+sintaxis HTML
+
+
+<html>
+
+    <head>
+        <title>
+
+           Mi página web
+
+        </title>
+    </head>
+
+    <body>
+
+        <header>
+
+        </header>
+
+        <main>
+
+        </main>
+
+        <footer>
+
+        </footer>
+
+
+
+
+    </body>
+
+
+</html>
